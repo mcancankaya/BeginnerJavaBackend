@@ -7,7 +7,7 @@ This repository contains [Beginner Java Backend (patika.dev)](https://app.patika
 ***
 1. **Selection & Insertion Sort Project**
     - Project : [selection & Insertion ](https://github.com/mcancankaya/BeginnerJavaBackend/blob/master/dataStructuresProjects/selectionInsertionSortProject.md)
-    - Course : [Patika.dev ( Selection Insertion Projects )](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
+    - Course : [Patika.dev ( Selection Insertion )](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
     ***
 2. **Merge Sort Project**
     - Project : [Merge Sort](https://github.com/mcancankaya/BeginnerJavaBackend/blob/master/dataStructuresProjects/mergesSortProject.md)
