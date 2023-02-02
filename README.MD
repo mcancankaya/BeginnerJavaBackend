@@ -6,14 +6,14 @@ This repository contains [Beginner Java Backend (patika.dev)](https://app.patika
 ### 1. Data Structures And Algorithms
 ***
 1. **Selection & Insertion Sort Project**
-    - Project : [selection & Insertion ](github.com/mcancankaya)
+    - Project : [selection & Insertion ](https://github.com/mcancankaya/BeginnerJavaBackend/blob/master/dataStructuresProjects/selectionInsertionSortProject.md)
     - Course : [Patika.dev ( Selection Insertion Projects )](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
     ***
 2. **Merge Sort Project**
-    - Project : [Merge Sort](github.com/mcancankaya)
+    - Project : [Merge Sort](https://github.com/mcancankaya/BeginnerJavaBackend/blob/master/dataStructuresProjects/mergesSortProject.md)
     - Course : [Patika.dev ( Merge Sort )](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje) 
     ***
 3. **Binary Search Tree Project**
-    - Project : [Binary Search Tree](github.com/mcancankaya)
+    - Project : [Binary Search Tree](https://github.com/mcancankaya/BeginnerJavaBackend/blob/master/dataStructuresProjects/binarySearchTreeProject.md)
     - Course : [Patika.dev ( Binary Search Tree )](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje)
  
